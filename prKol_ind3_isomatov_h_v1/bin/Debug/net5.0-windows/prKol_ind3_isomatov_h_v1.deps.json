@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "prKol_ind3_isomatov_h_v1/1.0.0": {
+        "runtime": {
+          "prKol_ind3_isomatov_h_v1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "prKol_ind3_isomatov_h_v1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
