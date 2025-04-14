@@ -1,0 +1,32 @@
+C:\Users\305-8\source\repos\prKol_ind3_Isomatov_h_v3\bin\Debug\net5.0\prKol_ind3_Isomatov_h_v3.exe
+C:\Users\305-8\source\repos\prKol_ind3_Isomatov_h_v3\bin\Debug\net5.0\prKol_ind3_Isomatov_h_v3.deps.json
+C:\Users\305-8\source\repos\prKol_ind3_Isomatov_h_v3\bin\Debug\net5.0\prKol_ind3_Isomatov_h_v3.runtimeconfig.json
+C:\Users\305-8\source\repos\prKol_ind3_Isomatov_h_v3\bin\Debug\net5.0\prKol_ind3_Isomatov_h_v3.runtimeconfig.dev.json
+C:\Users\305-8\source\repos\prKol_ind3_Isomatov_h_v3\bin\Debug\net5.0\prKol_ind3_Isomatov_h_v3.dll
+C:\Users\305-8\source\repos\prKol_ind3_Isomatov_h_v3\bin\Debug\net5.0\ref\prKol_ind3_Isomatov_h_v3.dll
+C:\Users\305-8\source\repos\prKol_ind3_Isomatov_h_v3\bin\Debug\net5.0\prKol_ind3_Isomatov_h_v3.pdb
+C:\Users\305-8\source\repos\prKol_ind3_Isomatov_h_v3\obj\Debug\net5.0\prKol_ind3_Isomatov_h_v3.csproj.AssemblyReference.cache
+C:\Users\305-8\source\repos\prKol_ind3_Isomatov_h_v3\obj\Debug\net5.0\prKol_ind3_Isomatov_h_v3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\305-8\source\repos\prKol_ind3_Isomatov_h_v3\obj\Debug\net5.0\prKol_ind3_Isomatov_h_v3.AssemblyInfoInputs.cache
+C:\Users\305-8\source\repos\prKol_ind3_Isomatov_h_v3\obj\Debug\net5.0\prKol_ind3_Isomatov_h_v3.AssemblyInfo.cs
+C:\Users\305-8\source\repos\prKol_ind3_Isomatov_h_v3\obj\Debug\net5.0\prKol_ind3_Isomatov_h_v3.csproj.CoreCompileInputs.cache
+C:\Users\305-8\source\repos\prKol_ind3_Isomatov_h_v3\obj\Debug\net5.0\prKol_ind3_Isomatov_h_v3.dll
+C:\Users\305-8\source\repos\prKol_ind3_Isomatov_h_v3\obj\Debug\net5.0\ref\prKol_ind3_Isomatov_h_v3.dll
+C:\Users\305-8\source\repos\prKol_ind3_Isomatov_h_v3\obj\Debug\net5.0\prKol_ind3_Isomatov_h_v3.pdb
+C:\Users\305-8\source\repos\prKol_ind3_Isomatov_h_v3\obj\Debug\net5.0\prKol_ind3_Isomatov_h_v3.genruntimeconfig.cache
+C:\Users\305-8\Desktop\Исоматов Хамид ПР-24\Основы алгоритмизации\2 семестр\prKol_ind3_Isomatov_h_v3\bin\Debug\net5.0\prKol_ind3_Isomatov_h_v3.exe
+C:\Users\305-8\Desktop\Исоматов Хамид ПР-24\Основы алгоритмизации\2 семестр\prKol_ind3_Isomatov_h_v3\bin\Debug\net5.0\prKol_ind3_Isomatov_h_v3.deps.json
+C:\Users\305-8\Desktop\Исоматов Хамид ПР-24\Основы алгоритмизации\2 семестр\prKol_ind3_Isomatov_h_v3\bin\Debug\net5.0\prKol_ind3_Isomatov_h_v3.runtimeconfig.json
+C:\Users\305-8\Desktop\Исоматов Хамид ПР-24\Основы алгоритмизации\2 семестр\prKol_ind3_Isomatov_h_v3\bin\Debug\net5.0\prKol_ind3_Isomatov_h_v3.runtimeconfig.dev.json
+C:\Users\305-8\Desktop\Исоматов Хамид ПР-24\Основы алгоритмизации\2 семестр\prKol_ind3_Isomatov_h_v3\bin\Debug\net5.0\prKol_ind3_Isomatov_h_v3.dll
+C:\Users\305-8\Desktop\Исоматов Хамид ПР-24\Основы алгоритмизации\2 семестр\prKol_ind3_Isomatov_h_v3\bin\Debug\net5.0\ref\prKol_ind3_Isomatov_h_v3.dll
+C:\Users\305-8\Desktop\Исоматов Хамид ПР-24\Основы алгоритмизации\2 семестр\prKol_ind3_Isomatov_h_v3\bin\Debug\net5.0\prKol_ind3_Isomatov_h_v3.pdb
+C:\Users\305-8\Desktop\Исоматов Хамид ПР-24\Основы алгоритмизации\2 семестр\prKol_ind3_Isomatov_h_v3\obj\Debug\net5.0\prKol_ind3_Isomatov_h_v3.csproj.AssemblyReference.cache
+C:\Users\305-8\Desktop\Исоматов Хамид ПР-24\Основы алгоритмизации\2 семестр\prKol_ind3_Isomatov_h_v3\obj\Debug\net5.0\prKol_ind3_Isomatov_h_v3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\305-8\Desktop\Исоматов Хамид ПР-24\Основы алгоритмизации\2 семестр\prKol_ind3_Isomatov_h_v3\obj\Debug\net5.0\prKol_ind3_Isomatov_h_v3.AssemblyInfoInputs.cache
+C:\Users\305-8\Desktop\Исоматов Хамид ПР-24\Основы алгоритмизации\2 семестр\prKol_ind3_Isomatov_h_v3\obj\Debug\net5.0\prKol_ind3_Isomatov_h_v3.AssemblyInfo.cs
+C:\Users\305-8\Desktop\Исоматов Хамид ПР-24\Основы алгоритмизации\2 семестр\prKol_ind3_Isomatov_h_v3\obj\Debug\net5.0\prKol_ind3_Isomatov_h_v3.csproj.CoreCompileInputs.cache
+C:\Users\305-8\Desktop\Исоматов Хамид ПР-24\Основы алгоритмизации\2 семестр\prKol_ind3_Isomatov_h_v3\obj\Debug\net5.0\prKol_ind3_Isomatov_h_v3.dll
+C:\Users\305-8\Desktop\Исоматов Хамид ПР-24\Основы алгоритмизации\2 семестр\prKol_ind3_Isomatov_h_v3\obj\Debug\net5.0\ref\prKol_ind3_Isomatov_h_v3.dll
+C:\Users\305-8\Desktop\Исоматов Хамид ПР-24\Основы алгоритмизации\2 семестр\prKol_ind3_Isomatov_h_v3\obj\Debug\net5.0\prKol_ind3_Isomatov_h_v3.pdb
+C:\Users\305-8\Desktop\Исоматов Хамид ПР-24\Основы алгоритмизации\2 семестр\prKol_ind3_Isomatov_h_v3\obj\Debug\net5.0\prKol_ind3_Isomatov_h_v3.genruntimeconfig.cache
